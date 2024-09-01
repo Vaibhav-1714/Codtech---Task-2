@@ -1,10 +1,11 @@
-NAME: PRANAV KUMAR VAIBHAV
+NAME: PRANAV KUMAR VAIBHAV                          
 Company: CODTECH IT SOLUTIONS          
 ID: CT08DS5903                        
 Domain: WEB DEVELOPMENT               
 Mentor: MUZAMMIL AHMED
-# Weather App
-[Live Preview](https://get-weather-detail.netlify.app)
+# Weather 
+
+Live Preview(https://vaibhav-1714.github.io/Codtech---Task-2/)
 ## Introduction
 Weather App is a simple web application designed to provide users with real-time weather information for a given location. It utilizes HTML, CSS, and JavaScript to create an interactive and visually appealing interface. The app fetches weather data from the WeatherAPI, which offers reliable and accurate weather forecasts.
 
