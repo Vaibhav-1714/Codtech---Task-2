@@ -1,7 +1,8 @@
 NAME: PRANAV KUMAR VAIBHAV                          
 Company: CODTECH IT SOLUTIONS          
 ID: CT08DS5903                        
-Domain: WEB DEVELOPMENT               
+Domain: WEB DEVELOPMENT                  
+DURATION: AUGUST TO SEPTEMBER.                      
 Mentor: MUZAMMIL AHMED
 # Weather 
 
